@@ -29,6 +29,8 @@ soft attention.py: code for soft-attention
 
 baseline.py: code for the base structure without attention
 
+Supplementary beam search program: main_supplement_beam_search.py 
+Supplementary social polling program main_scocial_pooling.py
 
 -------------------- 
 ## datasets

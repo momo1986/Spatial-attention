@@ -30,6 +30,7 @@ soft attention.py: code for soft-attention
 baseline.py: code for the base structure without attention
 
 Supplementary beam search program: main_supplement_beam_search.py 
+
 Supplementary social polling program main_scocial_pooling.py
 
 -------------------- 
@@ -44,3 +45,7 @@ Supplementary social polling program main_scocial_pooling.py
 ## result show
 
 rmse_compare.py
+
+Original work attribute to:
+
+https://github.com/Jie26/Spatial-attention/
